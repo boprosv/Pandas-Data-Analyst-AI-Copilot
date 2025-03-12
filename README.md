@@ -39,6 +39,8 @@ Chat Interface:
 
 Users can input questions in a chat interface.
 
+![alt image](https://github.com/boprosv/Pandas-Data-Analyst-AI-Copilot/blob/main/Screenshot%202025-03-12%20125437.png?raw=true)
+
 The app maintains a chat history using StreamlitChatMessageHistory.
 
 Responses are displayed in the chat interface, including tables, charts, or error messages.
