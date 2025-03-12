@@ -53,6 +53,8 @@ If the agent decides to return a table, the app displays the data in a DataFrame
 
 Charts and tables are stored in session state for persistence across interactions.
 
+![alt image](https://github.com/boprosv/Pandas-Data-Analyst-AI-Copilot/blob/main/Screenshot%202025-03-12%20120812.png?raw=true)
+
 Error Handling:
 
 The app includes error handling for invalid API keys, file upload issues, and agent processing errors.
