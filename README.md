@@ -65,6 +65,8 @@ If chart generation fails, the app falls back to returning a table.
 
 The Chart is fully interactive, so you can have detailed analysis.
 
-![alt image](
+![alt image](https://github.com/boprosv/Pandas-Data-Analyst-AI-Copilot/blob/main/Screenshot%202025-03-12%20121044.png?raw=true)
 
+
+As a data enthusiast, I wanted to create a tool that simplifies the data analysis process. The Pandas Data Analyst AI Copilot is combining AI, data science, and user-friendly design. It’s a very nice helper to focus on insights.
 
