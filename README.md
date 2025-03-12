@@ -15,7 +15,7 @@ The app validates the API key by attempting to fetch the list of available model
 
 Users can select between different OpenAI models (e.g., gpt-4o-mini, gpt-4o).
 
-![alt image]()
+![alt image](https://github.com/boprosv/Pandas-Data-Analyst-AI-Copilot/blob/main/Screenshot%202025-03-11%20140851.png?raw=true)
 
 File Upload and Data Preview:
 
