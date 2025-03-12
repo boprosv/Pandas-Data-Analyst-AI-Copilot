@@ -62,3 +62,7 @@ The app includes error handling for invalid API keys, file upload issues, and ag
 If chart generation fails, the app falls back to returning a table.
 
 ![alt image](https://github.com/boprosv/Pandas-Data-Analyst-AI-Copilot/blob/main/Screenshot%202025-03-12%20120841.png?raw=true)
+
+The Chart is fully interactive, so you can have detailed analysis.
+
+
