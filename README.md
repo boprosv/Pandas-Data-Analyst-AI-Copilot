@@ -65,4 +65,6 @@ If chart generation fails, the app falls back to returning a table.
 
 The Chart is fully interactive, so you can have detailed analysis.
 
+![alt image](
+
 
