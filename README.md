@@ -7,13 +7,15 @@ This Streamlit application is designed to act as a Pandas Data Analyst AI Copilo
 Key Features
 OpenAI API Integration:
 
+![alt image](https://github.com/boprosv/Pandas-Data-Analyst-AI-Copilot/blob/main/Screenshot%202025-03-11%20140759.png?raw=true)
+
 Users must input their OpenAI API key to use the app.
 
 The app validates the API key by attempting to fetch the list of available models from OpenAI.
 
 Users can select between different OpenAI models (e.g., gpt-4o-mini, gpt-4o).
 
-![alt image](https://github.com/boprosv/Pandas-Data-Analyst-AI-Copilot/blob/main/Screenshot%202025-03-11%20140759.png?raw=true)
+![alt image]()
 
 File Upload and Data Preview:
 
