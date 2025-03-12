@@ -23,6 +23,8 @@ Users can upload CSV or Excel files.
 
 The app previews the first few rows of the uploaded dataset using st.dataframe.
 
+![alt image](https://github.com/boprosv/Pandas-Data-Analyst-AI-Copilot/blob/main/Screenshot%202025-03-12%20123219.png?raw=true)
+
 AI Agent Setup:
 
 The app uses a PandasDataAnalyst agent, which includes:
